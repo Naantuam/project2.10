@@ -1,0 +1,120 @@
+.section1{
+    height: 14.28%; 
+ }
+ 
+ .section1 button\ {
+     background-color: blue;
+     color: aliceblue;
+     padding: 14px 40px;
+     font-size: 14px;
+ }
+ #service-info1{
+     width: 50%;
+     float: left;
+ 
+ }
+ 
+ 
+ #propertyImg1 img{
+     float: right;
+     width: 50%;
+     border-radius: 0 0 0 50px;
+ }
+
+ .blog-img{
+     float: right
+ }
+ 
+ 
+ 
+ .section2{
+     background-color: whitesmoke;
+     padding: 85px;
+     margin: 10px; 
+     height:14.28% ;
+ }
+ 
+ #service-info2{
+     width: 50%;
+     float: left;
+ }
+ #propertyImg2 img{
+     width: 50%;
+     float: right;
+ }
+ .section3{
+     background-color: whitesmoke;
+     margin: 10px; 
+     padding: 8px;
+     height:17.5% ;
+     justify-content: space-between;
+     text-align: center;
+ }
+ .stats{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+ }
+ .stat1{
+     text-align: center;
+     float: left;
+     width: 25%;
+ }
+ .stat2{
+     text-align: center;
+     float: left;
+     width: 50%
+ }
+ .stat3{
+     text-align: center;
+     float: right;
+     width: 25%;
+ }
+ 
+ 
+ .section4{
+     background-color: whitesmoke;
+     margin: 20px; 
+     padding: 85px;
+     height:17.5% ;
+ }
+ .section5{
+     background-color: whitesmoke;
+     margin: 20px; 
+     padding: 85px;
+     height:17.5% ;
+ }
+ .section6{
+     background-color: whitesmoke;
+     margin: 20px; 
+     padding: 85px;
+     height:17.5% ;
+ }
+ .section6 button{
+     background-color: blue;
+     color: aliceblue;
+     padding: 12px 28px;
+     font-size: 14px;
+ }
+ 
+ .section7{
+     background-color: blue;
+     padding: 50px;
+     height:17.5% ;
+     justify-content: space-between;
+     color: aliceblue;
+    
+     
+ }
+ .section7 a{
+     color: aliceblue;
+ }
+ .section7 table{
+     table-layout: fixed;
+     width: 100%;
+ }
+ .section7 h4{
+     background-color: darkblue;
+     text-align: center;
+     
+ }
